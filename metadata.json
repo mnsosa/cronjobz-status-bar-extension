@@ -1,0 +1,7 @@
+{
+  "uuid": "cron@status.jobz",
+  "name": "Cronjobz Status",
+  "description": "Shows output of cronjobz list in the top bar",
+  "shell-version": ["45", "46"],
+  "version": 1
+}
